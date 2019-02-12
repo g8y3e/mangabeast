@@ -1,0 +1,9 @@
+{
+  "title": "test manga",
+  "chapters": [
+    {
+      "path": "chapter_01",
+      "name": "first one"
+    }
+  ]
+}
